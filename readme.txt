@@ -1,0 +1,1 @@
+Basicamente este es un codigo simple que puede llegar a servirle a una persona que tenga un mini emprendimiento o un negocio pequeño, ya que, se puede utilizar para agregar la fecha y el dia en que se realizo la compra en un excel.
